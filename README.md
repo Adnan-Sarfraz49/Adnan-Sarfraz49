@@ -47,4 +47,4 @@ I’m currently exploring various programming languages and technologies, focusi
 
 ### 📫 How to reach me:
 - Email: [adnannms930@gmail.com](mailto:adnannms930@gmail.com)
-- LinkedIn: [Adnan Sarfraz](https://www.linkedin.com/in/adnansarfraz/)
+- LinkedIn: [Adnan Sarfraz](www.linkedin.com/in/adnan-sarfraz-1b379628a)
