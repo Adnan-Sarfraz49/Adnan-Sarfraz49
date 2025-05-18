@@ -36,11 +36,11 @@ I’m currently exploring various programming languages and technologies, focusi
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adnan-droid90&show_icons=true&locale=en" alt="adnan-droid90" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adnan-Sarfraz49&show_icons=true&locale=en" alt="Adnan-Sarfraz49" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnan-droid90&" alt="adnan-droid90" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adnan-Sarfraz49&" alt="Adnan-Sarfraz49" />
 </p>
 
 ---
