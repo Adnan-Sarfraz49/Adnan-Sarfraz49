@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Vivado-CC0000?style=for-the-badge&logo=xilinx&logoColor=white" />
   <img src="https://img.shields.io/badge/Atmel_Studio-034694?style=for-the-badge&logo=microchip&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exploring_Linux_Based_Environments-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 ---
