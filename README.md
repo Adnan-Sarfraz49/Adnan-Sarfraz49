@@ -1,49 +1,66 @@
-## Welcome to my GitHub profile! 👋
-
-### 🚀 Passionate about coding and always striving to improve my skills.
-
-I’m currently exploring various programming languages and technologies, focusing on **C**, **C++**, **Python**, and **HTML**.
-
-### 🔭 What I’m working on:
-- Building small projects to deepen my understanding of programming concepts.
-- Collaborating with others to solve coding challenges and improve code quality.
-
-### 🌱 Currently Learning:
-- **Python** for data science and automation.
-- **HTML** for web development and front-end design.
-
-### 💬 Ask me about:
-- Coding practices, optimization techniques, and programming challenges.
-- Arduino and embedded systems.
-
-### 📫 Reach me via email: [adnannms930@gmail.com](mailto:adnannms930@gmail.com)
+<h1 align="center">👋 Hi, I'm <b>Adnan Sarfraz</b></h1>
+<h3 align="center">⚡ Electrical Engineer | Embedded Systems | IoT | Networking</h3>
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</p>
+### 💡 About Me  
+🔹 Electrical Engineer with a strong foundation in **embedded systems**, **IoT**, **power electronics**, and **computer networking**.  
+🔹 Skilled in both **hardware and software integration**, from circuit simulation to microcontroller programming and network design.  
+🔹 Passionate about **automation**, **innovation**, and **technology-driven solutions** that bridge electronics with communication systems.  
 
 ---
 
-### 📊 GitHub Stats:
+### 🛠️ Skills & Tools  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adnan-Sarfraz49&show_icons=true&locale=en" alt="Adnan-Sarfraz49" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adnan-Sarfraz49&" alt="Adnan-Sarfraz49" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proteus-1E4D8E?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-FF9F00?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vivado-CC0000?style=for-the-badge&logo=xilinx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Atmel_Studio-034694?style=for-the-badge&logo=microchip&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 ---
 
-### 📫 How to reach me:
-- Email: [adnannms930@gmail.com](mailto:adnannms930@gmail.com)
+### 💻 Technical Areas of Expertise  
+- ⚙️ **Embedded Systems Development** (Arduino, Atmel Studio)  
+- 🔋 **Power Electronics & Circuit Simulation** (Proteus, MATLAB)  
+- 🌐 **Computer Networking** (Cisco Packet Tracer, Network Design)  
+- 💡 **IoT System Integration** (ESP8266, Blynk, Sensors & Relays)  
+- 🧠 **Digital Design & FPGA** (Vivado)  
+
+---
+
+### 🌱 Interests  
+🚀 Embedded Systems • IoT • Power Electronics • Networking • Control Systems • Automation  
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adnan-Sarfraz49&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adnan-Sarfraz49&theme=tokyonight" alt="streak" />
+</p>
+
+---
+
+### 📫 Connect With Me  
+
+<p align="center">
+  <a href="mailto:adnannms930@gmail.com"><img src="https://img.shields.io/badge/Email-adnannms930%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/adnan-sarfraz-1b379628a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Adnan_Sarfraz-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+> 💬 “Engineering is where creativity meets logic — building solutions that connect the world.”
+
+
