@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="mailto:adnannms930@gmail.com"><img src="https://img.shields.io/badge/Email-adnannms930%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/adnan-sarfraz-1b379628a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Adnan_Sarfraz-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/adnan-sarfraz-1b379628a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Adnan_Sarfraz-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
